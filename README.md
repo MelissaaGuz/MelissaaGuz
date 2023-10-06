@@ -1,10 +1,10 @@
 # Hello! I am Melissa. 
 ------
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="200" height="150">
 
-<img src=![Java logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png) width="200" height="150">
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="200" height="150">
 
-
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+<img src="URL" alt="alt text" width="200" height="150">
 
 ![HTML Logo](https://www.w3.org/html/logo/img/mark-word-icon.png)
 
