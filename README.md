@@ -1,6 +1,6 @@
 # <h1 align="center"> 💛 Hello! I am Melissa💛 </h1>
 
-<h3 align ="center"> 
+<h3 align ="left"> 
  <ul>
 <li>🤍</li>
 <li>🤎</li>
