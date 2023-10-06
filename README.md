@@ -1,6 +1,8 @@
-# Hello! I am Melissa. 
+# <h1 align="center"> Hello! I am Melissa. </h1>
+<h3 align ="center"> short description </h3>
+
 ------
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="100" height="100"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="40"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="40" height="40">
 
 <img src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="html" width="200" height="150">
 
