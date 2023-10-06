@@ -1,9 +1,5 @@
 # <h1 align="center"> 💛 Hello! I am Melissa💛 </h1>
 
-```python
-def hello_world():
-    print("Hello, World!")
-
 <h3 align ="center"> short description </h3>
 
 ------
