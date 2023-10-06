@@ -1,7 +1,8 @@
 # Hello! I am Melissa. 
 ------
 
-![Java logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png) 
+<img src=![Java logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png) width="200" height="150">
+
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
