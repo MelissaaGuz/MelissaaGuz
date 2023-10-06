@@ -2,17 +2,8 @@
 <h3 align ="center"> short description </h3>
 
 ------
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="40"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="40" height="40"> <img src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="html" width="40" height="40"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="css logo" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt="Javascript logo" width="40" height="40">
 
-<img src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="html" width="200" height="150">
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="css logo" width="100" height="100">
-
-
-<img src="URL" alt="alt text" width="200" height="150">
-
-![JAVASCRIPT Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433) 
 
 
 <img src="URL" alt="alt text" width="200" height="150">
