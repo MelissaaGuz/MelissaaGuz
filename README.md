@@ -1,3 +1,4 @@
 # Hello! I am Melissa. 
-(https://www.google.com/search?safe=active&sca_esv=571321355&rlz=1C1GCGA_enUS1070US1070&sxsrf=AM9HkKmouwC90tGKjOyEm-3wVtbJ5wVlVw:1696603514624&q=javascript+logo&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwij0sDO1OGBAxUuv4kEHYggBwYQ0pQJegQIDRAB&biw=1266&bih=472&dpr=1.5#imgrc=wO8Fh4IPso_06M) ![Python Logo](https://www.google.com/search?q=jpython+logo&tbm=isch&ved=2ahUKEwizj7HS1OGBAxXYK2IAHaE6CFkQ2-cCegQIABAA&oq=jpython+logo&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQigUQQzoFCAAQgAQ6CggAEIoFELEDEENQhQdY7hJghRZoAXAAeACAAVSIAd4FkgECMTCYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=gh0gZbPGLdjXiLMPofWgyAU&bih=472&biw=1266&rlz=1C1GCGA_enUS1070US1070&safe=active#imgrc=4k1ndhVEsI4h8M) ![HTML Logo](URL) ![CSS Logo](URL) ![SNOWFLAKE logo](URL) ![My sql LOGO](URL) ![JAVASCRIPT LOGO](URL) 
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png) ![HTML Logo](URL) ![CSS Logo](URL) ![SNOWFLAKE logo](URL) ![My sql LOGO](URL) ![JAVASCRIPT LOGO](URL) 
 ![Springboot logo](URL) ![Postman logo](URL) ![react logo](URL) ![alt text](URL) ![alt text](URL) 
