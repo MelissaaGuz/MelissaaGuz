@@ -1,6 +1,6 @@
 # <h1 align="center"> 💛 Hello! I am Melissa💛 </h1>
 
-<h3 align ="center"> short description </h3>
+<h3 align ="center"> 🤍 🤎 💙 ❤️ 💚 short description </h3>
 
 ------
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/320px-Java_programming_language_logo.svg.png" alt="Java Logo" width="50" height="50"> <img src="https://www.w3.org/html/logo/img/mark-word-icon.png" alt="html" width="50" height="50"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="python logot" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="css logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt="Javascript logo" width="50" height="50"> <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake logo" width="50" height="50"> <img src="https://github.com/MelissaaGuz/MelissaaGuz/assets/102260396/3dd1adf4-29a4-4784-ac12-b4abeade148a" alt="mysql logo" width="50" height="50"> <img src="https://img.icons8.com/?size=100&id=90519&format=png" alt="springboot logo" width="50" height="50">
