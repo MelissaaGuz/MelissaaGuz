@@ -2,7 +2,7 @@
 
 <h3 align ="left"> 
  <ul>
-<li> I like cloud https://teams.microsoft.com/l/message/48:notes/1697644594433?context=%7B%22contextType%22%3A%22chat%22%7D </li>
+<li> I like cloud ☁️ </li>
 <li> developing, testing, debugging </li>
 <li> designing user friendly interfaces </li>
  </ul></h3>
