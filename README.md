@@ -2,9 +2,9 @@
 
 <h3 align ="left"> 
  <ul>
-<li> I like cloud ☁️ </li>
-<li> developing, testing, debugging </li>
-<li> designing user friendly interfaces </li>
+<li> ☁ i like the cloud ☁️ </li>
+<li> i work on developing, testing, debugging </li>
+<li> i design user friendly interfaces </li>
  </ul></h3>
 
 ------
